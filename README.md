@@ -20,7 +20,8 @@ The dataset includes:
 * Monthly Usage Hours
 
 ## Dashboard preview
-![Dashboard].(dashboard.png)
+
+![Dashboard Screenshot](dashboard.png)
 
 ## Key Features
 * Interactive slicers for filtering data
